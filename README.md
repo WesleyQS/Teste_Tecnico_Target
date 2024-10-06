@@ -10,7 +10,7 @@
 
   
 <body>
-  <h1 class="text-center"><span class="emoji">🎯</span> Processo Seletivo para Estágio - Testes Lógicos e Algoritmos <span class="emoji">🎯</span></h1>
+  <h1 class="text-center"><span class="emoji">🎯</span> Teste Técnico da Target <span class="emoji">🎯</span></h1>
   <p class="lead text-center">Seja bem-vindo(a) ao repositório que representa minha jornada no processo seletivo para o estágio. Aqui, você encontrará soluções criativas e bem elaboradas para os desafios propostos, abrangendo diversas áreas de programação e lógica computacional.</p>
 
   <hr>
